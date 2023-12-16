@@ -1,0 +1,24 @@
+/* CSS Document */
+.link
+{
+	 text-decoration:none;
+	 color:#000000;
+	 font-weight:bold;
+}
+.top_space
+{
+	padding-top:20px;
+}
+.left_space
+{
+	padding-left:35px;
+}
+.right_space
+{
+	padding-right:20px;
+}
+.sel_link
+{
+	color: infobackground;
+	text-decoration:none;
+}
